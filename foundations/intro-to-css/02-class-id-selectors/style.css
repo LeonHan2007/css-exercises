@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.pink{
+    background-color: #FFC5D3;
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+#header-blue{
+    color: #90D5FF;
+    font-size: 36px;
+}
+.pink.big{
+    font-size: 24px;
+}
+#header-green{
+    background-color: #90FFB3;
+    font-size: 24px;
+    font-weight: bold;
+}
